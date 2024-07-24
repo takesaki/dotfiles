@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "dotenv.dotenv-vscode",
+        "editorconfig.editorconfig",
+        "GitHub.copilot",
+        "usernamehw.errorlens",
+        "vscode-icons-team.vscode-icons"
+    ]
+}

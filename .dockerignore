@@ -1,0 +1,6 @@
+.git/
+.gitignore
+.devcontainer/
+.editorconfig
+Dockerfile
+node_modules/
